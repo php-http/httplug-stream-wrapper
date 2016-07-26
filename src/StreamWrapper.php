@@ -48,7 +48,7 @@ class StreamWrapper
     }
 
     /**
-     *
+     * Disable the stream wrapper.
      */
     public static function disable()
     {
