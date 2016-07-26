@@ -1,11 +1,11 @@
 # Stream wrapper
 
-[![Latest Version](https://img.shields.io/github/release/php-http/httplug-streamwrapper.svg?style=flat-square)](https://github.com/php-http/httplug-streamwrapper/releases)
+[![Latest Version](https://img.shields.io/github/release/php-http/httplug-stream-wrapper.svg?style=flat-square)](https://github.com/php-http/httplug-stream-wrapper/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build Status](https://img.shields.io/travis/php-http/httplug-streamwrapper.svg?style=flat-square)](https://travis-ci.org/php-http/httplug-streamwrapper)
-[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/php-http/httplug-streamwrapper.svg?style=flat-square)](https://scrutinizer-ci.com/g/php-http/httplug-streamwrapper)
-[![Quality Score](https://img.shields.io/scrutinizer/g/php-http/httplug-streamwrapper.svg?style=flat-square)](https://scrutinizer-ci.com/g/php-http/httplug-streamwrapper)
-[![Total Downloads](https://img.shields.io/packagist/dt/php-http/httplug-streamwrapper.svg?style=flat-square)](https://packagist.org/packages/php-http/httplug-streamwrapper)
+[![Build Status](https://img.shields.io/travis/php-http/httplug-stream-wrapper.svg?style=flat-square)](https://travis-ci.org/php-http/httplug-stream-wrapper)
+[![Code Coverage](https://img.shields.io/scrutinizer/coverage/g/php-http/httplug-stream-wrapper.svg?style=flat-square)](https://scrutinizer-ci.com/g/php-http/httplug-stream-wrapper)
+[![Quality Score](https://img.shields.io/scrutinizer/g/php-http/httplug-stream-wrapper.svg?style=flat-square)](https://scrutinizer-ci.com/g/php-http/httplug-stream-wrapper)
+[![Total Downloads](https://img.shields.io/packagist/dt/php-http/httplug-stream-wrapper.svg?style=flat-square)](https://packagist.org/packages/php-http/httplug-stream-wrapper)
 
 **Convert uses of fopen and file_get_contents to HTTPlug requests.**
 
@@ -20,7 +20,7 @@
 Via Composer
 
 ``` bash
-$ composer require php-http/httplug-streamwrapper
+$ composer require php-http/httplug-stream-wrapper
 ```
 
 
