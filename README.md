@@ -1,3 +1,7 @@
+# Abandoned
+
+To our knowledge, this repository is unused. We keep it here in case it is useful for anyone, but the code is not maintained.
+
 # Stream wrapper
 
 [![Latest Version](https://img.shields.io/github/release/php-http/httplug-stream-wrapper.svg?style=flat-square)](https://github.com/php-http/httplug-stream-wrapper/releases)
